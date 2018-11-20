@@ -1,6 +1,6 @@
 # Site
 title: Daegu_SFP
-description: Stylish, Two-Column Jekyll Theme
+description: »ï¼º»ý¸í ´ë±¸±ÝÀ¶SFP ÁöÁ¡
 url: https://sli-daegu-sfp.github.io/
 logo: halve.png                                       # Site logo
 locale: en_US
@@ -29,30 +29,12 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
-#google.plus:        username
-twitter:            username
+email:             email
 #facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
-#xing:              username
-#instagram:          username
-#lastfm:            username
-#tumblr:            username
-#pinterest:         username
-#foursquare:        username
-#steam:              username
+instagram:          daegu_sfp
 #dribbble:          username
-#youtube:           username
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
-behance:           username
+youtube:           username
 
 # Gems
 gems:
