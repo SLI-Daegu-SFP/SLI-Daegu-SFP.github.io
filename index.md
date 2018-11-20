@@ -1,10 +1,6 @@
 ---
 layout: home
 ---
-# About Theme
+# Welcome to this page
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
-
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+이 페이지는 삼성생명 대구금융 SFP 지점에서 만든 페이지입니다. 보험과 더 나아가서는 금융에 대한 이해를 돕고 또 삼성생명 SFP를 홍보하기 위한 용도로 만들어졌습니다.
